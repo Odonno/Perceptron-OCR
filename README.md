@@ -56,3 +56,16 @@ A WPF (C#/XAML) application that uses OCR ViewModel to create views and let the 
 
 * External references : __Ninject__ , __Galasoft.MvvmLight__, __System.Windows.Interactivity__ 
 * Internal references : __Perceptron.Model__, __Perceptron.Services__, __Perceptron.OCR.Model__, __Perceptron.OCR.ViewModel__
+
+## Extensible features
+
+* Human revision
+* More actions in views
+    * Selection of functions (combination and transfer)
+    * Modify weights anytime
+    * Modify learning step
+    * Go to dictionary
+    * and more...
+* Dictionary view in OCR project to update list of character
+* Save data (dictionary, inputs, neurons, etc...) and learning phase
+* Share learning and versionning it !
